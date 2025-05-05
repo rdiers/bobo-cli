@@ -1,1 +1,1 @@
-# revin-cli
+# bobo-cli
