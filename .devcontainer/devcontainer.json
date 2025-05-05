@@ -1,0 +1,14 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2.13.0",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {}
+  },
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot-chat",
+				"GitHub.copilot"
+			]
+		}
+	}
+}
